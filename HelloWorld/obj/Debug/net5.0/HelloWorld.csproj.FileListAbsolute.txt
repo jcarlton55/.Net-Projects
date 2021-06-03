@@ -1,0 +1,16 @@
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/jcarlton/VSCode Projects/dotnet/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
